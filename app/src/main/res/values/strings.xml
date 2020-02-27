@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_game">Game</string>
+    <string name="second">This is where the game will be played.</string>
+    <string name="hello">TETRIS</string>
+    <string name="welcome">by Joseph Carbone</string>
+    <string name="play">PLAY</string>
+
+</resources>
